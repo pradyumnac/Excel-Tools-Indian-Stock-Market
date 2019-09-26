@@ -1,0 +1,11 @@
+wenv
+lenv
+data
+__pycache__
+.ipynb_checkpoints
+*.pvt
+*.pyc
+log
+*.zip
+output
+themes
