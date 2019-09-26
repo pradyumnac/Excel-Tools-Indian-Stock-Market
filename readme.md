@@ -2,10 +2,10 @@
   
 ## Requirements  
 Microsoft Excel 
-(Developed in Excel 2016 Professional Edition  
+(Developed in Excel 2016 Professional Edition)
   
 ## Table of Contents  
----
+  
 ### 1.  TradeActivityNSE    
 
 #### Purpose
